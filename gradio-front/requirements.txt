@@ -1,0 +1,7 @@
+transformers_stream_generator
+gradio==3.38.0
+jsonlines
+torchvision
+faiss-cpu
+modelscope
+tiktoken
